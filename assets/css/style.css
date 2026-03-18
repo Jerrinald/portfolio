@@ -1346,7 +1346,7 @@ textarea.form-input::-webkit-resizer {
 
   .project-img,
   .blog-banner-box {
-    height: auto;
+    height: 200px;
   }
 }
 

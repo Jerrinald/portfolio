@@ -1,0 +1,26 @@
+<svg width="40" height="32" viewBox="0 0 40 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Server background -->
+  <rect opacity="0.15" x="4" y="1" width="32" height="30" rx="2" fill="url(#paint0_linear)"/>
+  <!-- Server unit 1 background -->
+  <rect opacity="0.1" x="4" y="1" width="32" height="13" rx="2" fill="url(#paint0_linear)"/>
+  <!-- Server unit 1 border -->
+  <rect x="4" y="1" width="32" height="13" rx="2" stroke="url(#paint0_linear)" stroke-width="1.5"/>
+  <!-- LED indicator unit 1 -->
+  <circle cx="9" cy="7.5" r="2" fill="url(#paint0_linear)"/>
+  <!-- Slots unit 1 -->
+  <rect x="14" y="5.5" width="18" height="2" rx="1" fill="url(#paint0_linear)" opacity="0.7"/>
+  <rect x="14" y="9" width="10" height="2" rx="1" fill="url(#paint0_linear)" opacity="0.4"/>
+  <!-- Server unit 2 border -->
+  <rect x="4" y="18" width="32" height="13" rx="2" stroke="url(#paint0_linear)" stroke-width="1.5"/>
+  <!-- LED indicator unit 2 -->
+  <circle cx="9" cy="24.5" r="2" fill="url(#paint0_linear)"/>
+  <!-- Slots unit 2 -->
+  <rect x="14" y="22.5" width="18" height="2" rx="1" fill="url(#paint0_linear)" opacity="0.7"/>
+  <rect x="14" y="26" width="10" height="2" rx="1" fill="url(#paint0_linear)" opacity="0.4"/>
+  <defs>
+    <linearGradient id="paint0_linear" x1="4" y1="1" x2="36" y2="31" gradientUnits="userSpaceOnUse">
+      <stop offset="0.259336" stop-color="#FFDB6E"/>
+      <stop offset="1" stop-color="#FFBC5E"/>
+    </linearGradient>
+  </defs>
+</svg>
